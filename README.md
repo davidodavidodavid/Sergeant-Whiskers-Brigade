@@ -6,7 +6,12 @@ We are still early in development so we only have one character (and few animati
 
 # How to Play
 
-To download and install the demo go [here](https://github.com/AndrewCromar/Sergeant-Whiskers-Brigade/releases/tag/demo-v0.01-beta). There are further download instructions on the release.
+1. Go to the release page [here](https://github.com/AndrewCromar/Sergeant-Whiskers-Brigade/releases/tag/demo-v0.01-beta).
+2. Download the attached source code zip folder.
+3. Unzip the folder.
+4. Navigate to the "Builds/Demo" folder.
+5. Run "Project FPS.exe".
+6. Boom! You are now playing the very early beta demo.
 
 # Controlls
 
